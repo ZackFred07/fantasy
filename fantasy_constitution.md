@@ -44,7 +44,7 @@ We the people of the No Fun League, in order to form a more perfect league, enco
 
 ## Key Values
 
-$N =$ Number of Teams $= $ 12
+$N =$ Number of Teams $= 12$
 
 $K =$ Number of Keepers $= 0$
 
